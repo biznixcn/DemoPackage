@@ -1,7 +1,7 @@
 DemoPackage
 ====
 
-DemoPackage 0.2.5
+DemoPackage 0.0.1
 
 About
 ====
@@ -11,7 +11,7 @@ This is a Demo package for creating a python package. It is a baseline demostrat
 Website
 ====
 
-www.-----.org
+https://github.com/sb2nov/DemoPackage
 
 License
 =====
