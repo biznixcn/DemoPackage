@@ -14,18 +14,24 @@ import DemoPackage.utils
 
 
 class TestUtils(unittest.TestCase):
+    """Unittest Class
+    :param: None
+    """
 
     def setUp(self):
-        ''' Unittest setup function '''
+        """ Unittest setup function
+        """
         self.seq = range(10)
 
     def test_print_integer(self):
-        '''Testing the print_integer function'''
+        """Testing the print_integer function
+        """
         print "Sequence : ", self.seq
         DemoPackage.utils.print_integer()
 
     def test_print_string(self):
-        '''Testing the print_integer function'''
+        """Testing the print_string function
+        """
         print "Sequence : ", self.seq
         DemoPackage.utils.print_string()
 
