@@ -1,17 +1,15 @@
-"""
-    Utils
-    ~~~
-    This module contains utility functions.
-    :Authors: Sourabh Bajaj
-    :Email: sourabhbajaj@gatech.edu
-    :License: BSD License
-    :Date: 26th April, 2013
-"""
+""" Utility functions."""
+# Author  : Sourabh Bajaj
+# Date    : 26th April, 2013
+# Email   : sourabhbajaj@gatech.edu
+# Summary : Testing Utils file
+# License : BSD License
 
 def print_string():
     """This function prints a string.
+    
     :returns: None.
-    :output: print an string
+    :output: print an string.
     :rtype: None.
     """
     print "This is a sample string."
@@ -21,6 +19,7 @@ def print_string():
 
 def print_integer(i=100):
     """This function prints the integer i.
+    
     :param i: The integer to be printed.
     :returns: None.
     :rtype: None.
@@ -28,7 +27,6 @@ def print_integer(i=100):
     """
     print "This is a sample integer.", i
     return
-
 
 def main():
     '''
