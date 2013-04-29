@@ -17,15 +17,15 @@ setup(
     packages=find_packages(),
     namespace_packages=['DemoPackage'],
     include_package_data=True,
+    url='http://sb2nov.github.io/DemoPackage',
     long_description=open('README.md').read(),
     author_email='sourabhbajaj90@gmail.com',
-    license=open('LICENSE.txt').read(),
-    description='QuantSoftware Toolkit',
+    license='BSD License',
+    description='DemoPackage',
     install_requires=[
         "setuptools",
     ],
     classifiers=[
-        "Development Status :: 5 - Production",
         "Topic :: Utilities",
         "License :: OSI Approved :: BSD License",
     ],
