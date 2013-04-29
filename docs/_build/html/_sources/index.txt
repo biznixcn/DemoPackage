@@ -17,7 +17,7 @@ With DemoPackage I have covered the basics of:
 
 I'll be updating the detailed instructions as soon as possible.
 
-**Table of Contents:**
+**Table of Contents**:
 ----------------------
 
 .. toctree::
