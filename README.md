@@ -1,27 +1,17 @@
-DemoPackage
-====
-
+##DemoPackage
 DemoPackage 0.0.1
 
-About
-====
-
+##About
 This is a Demo package for creating a python package. It is a baseline demostration of all the minimum required components. This can be used as a base package of developing other packages on top of it.
 
-Website
-====
-
+##Website
 https://github.com/sb2nov/DemoPackage
 
-Fund the project
-================
-
-Please fund the project, anything is fine. Please help in finishing up this project by donating on the link below. 
-
+##Fund the project
+Please fund the [project](https://www.catincan.com/proposal/demopackage/demopackage), anything is fine. Please help in finishing up this project by donating on the link below. 
 https://www.catincan.com/proposal/demopackage/demopackage
 
-License
-=====
+##License
 
 Copyright (c) <2013>, <Sourabh Bajaj>
 All rights reserved.
@@ -51,12 +41,9 @@ ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-Dependencies
-====
-
+##Dependencies
 * setuptools
+* Sphinx
 
-Author
-====
-
-Sourabh Bajaj
+##Author
+[Sourabh Bajaj](http://sb2nov.github.io)
