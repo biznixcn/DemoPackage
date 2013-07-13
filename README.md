@@ -16,8 +16,9 @@ https://github.com/sb2nov/DemoPackage
 Fund the project
 ================
 
-Please fund the project, anything is fine. Please help in finishing up this project. 
+Please fund the project, anything is fine. Please help in finishing up this project by donating on the link below. 
 
+https://www.catincan.com/proposal/demopackage/demopackage
 
 License
 =====
