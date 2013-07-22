@@ -1,5 +1,5 @@
 ##DemoPackage
-DemoPackage 0.0.1
+DemoPackage [![PyPI version](https://badge.fury.io/py/DemoPackage.png)](http://badge.fury.io/py/DemoPackage)
 
 ##About
 This is a Demo package for creating a python package. It is a baseline demostration of all the minimum required components. This can be used as a base package of developing other packages on top of it.
